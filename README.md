@@ -1,16 +1,14 @@
-### Hi there 👋 I am Nana Essandoh
+### Hi there 👋, my name is Nana Ekow Effrim Essandoh
+#### I am learning addict and cloud enthusiast
+![I am learning addict and cloud enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**effrim/effrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We teach to learn and learn to teach. I am quite new in my cloud and tech journey in general and here I share my learnings and projects.
 
-Here are some ideas to get you started:
+Skills: AWS FUNDAMENTALS/ OSS / VOIP/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
